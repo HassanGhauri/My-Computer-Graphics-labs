@@ -1,0 +1,9 @@
+1)for compiling hte command is:
+gcc (Step#6.cpp) -o a -lGL -lGLU -lglut -lm  -std=c++11 -lstdc++ -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+
+->place the name of the file in brackets ().
+
+2)for executing, the command is : 
+a.out
+-> here a is the compiled output file name,it doesnt have to be a, it can be any other
+letter or word.
